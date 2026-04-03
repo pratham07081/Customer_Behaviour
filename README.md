@@ -30,7 +30,7 @@ The Power BI dashboard is broken down into five core analytical areas:
 ## 🚀 How to View the Project
 1. **Explore the Code:** You can view the Python and SQL scripts directly in this repository to see the data prep and analysis logic.
 2. **View the Dashboard:** Download the `CustomerBehaviour.pbix` file and open it in Power BI Desktop to interact with the visualizations. 
-3. **Quick Glance:** Check out the screenshots provided in the repository in the order 'overview'-'segmentation'-'product'-'behaviour'-'segmentation'.
+3. **Quick Glance:** Check out the screenshots provided in the repository.
 
 ---
 *Feel free to reach out if you have any questions about the data pipeline, the SQL logic, or the Power BI DAX formulas used in this project!*
